@@ -1,0 +1,32 @@
+*{
+  
+    font-family: sans-serif;
+    background: #42455a;
+
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+ header ul {
+    display: flex;
+    gap: 30px ;
+    list-style-type: none;
+    align-items: center;
+    padding-left: 300px;
+
+
+ }
+.logo{
+    display: flex
+}
+
+.h{
+    font-size: 100px;
+}
+p{
+font-size: 50px;
+}
